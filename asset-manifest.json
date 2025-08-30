@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "./https://ghazi829.github.io/Sports-project/static/css/main.ef97fa75.css",
+    "main.js": "./https://ghazi829.github.io/Sports-project/static/js/main.02f942b0.js",
+    "static/js/453.9db74ecf.chunk.js": "./https://ghazi829.github.io/Sports-project/static/js/453.9db74ecf.chunk.js",
+    "index.html": "./https://ghazi829.github.io/Sports-project/index.html",
+    "main.ef97fa75.css.map": "./https://ghazi829.github.io/Sports-project/static/css/main.ef97fa75.css.map",
+    "main.02f942b0.js.map": "./https://ghazi829.github.io/Sports-project/static/js/main.02f942b0.js.map",
+    "453.9db74ecf.chunk.js.map": "./https://ghazi829.github.io/Sports-project/static/js/453.9db74ecf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef97fa75.css",
+    "static/js/main.02f942b0.js"
+  ]
+}
